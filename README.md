@@ -1,2 +1,1 @@
-# python
-Repositorio de estudos python
+# Repositorio de estudos do python!
