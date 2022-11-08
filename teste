@@ -1,0 +1,8 @@
+valores = input("Digite Aqui").split() 
+
+# TODO:  Calcule a média de cachorros quentes consumidas por participante e imprima o valor com DUAS casas decimais.
+
+pessoas = int(valores[1])
+cachorro_quente = int(valores[0])
+
+print("{:.2f}".format(cachorro_quente / pessoas))
